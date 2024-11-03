@@ -1,0 +1,1 @@
+export const BASE_URL = "https://hu-hack-back.onrender.com"
